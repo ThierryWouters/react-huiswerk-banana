@@ -8,6 +8,7 @@ import SignUp from './pages/SignUp';
 import './App.css';
 
 function App() {
+  console.log("Website is loading....")
   return (
     <>
       <NavBar />
